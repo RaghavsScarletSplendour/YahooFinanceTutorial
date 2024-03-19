@@ -12,3 +12,26 @@ To get started with this project, clone this repository and install the required
 git clone <repository-url>
 cd <repository-name>
 pip install -r requirements.txt
+```
+## Features
+
+Installation instructions for yfinance
+Fetching stock data
+Adjusted prices and interval-based data retrieval
+Advanced features for comprehensive financial analysis
+## Usage
+
+Open the Yfinance_tutorial.ipynb Jupyter Notebook in your preferred environment (Jupyter Lab, Jupyter Notebook, or VS Code) to access the tutorial and code snippets.
+
+## Contributing
+
+Contributions to improve the project are welcome. Please follow these steps to contribute:
+
+Fork the repository
+Create your feature branch (git checkout -b feature/AmazingFeature)
+Commit your changes (git commit -am 'Add some AmazingFeature')
+Push to the branch (git push origin feature/AmazingFeature)
+Open a pull request
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
