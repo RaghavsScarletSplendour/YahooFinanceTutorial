@@ -28,11 +28,11 @@ Open the Yfinance_tutorial.ipynb Jupyter Notebook in your preferred environment 
 
 Contributions to improve the project are welcome. Please follow these steps to contribute:
 
-Fork the repository
-Create your feature branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -am 'Add some AmazingFeature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a pull request
+- Fork the repository
+- Create your feature branch (git checkout -b feature/AmazingFeature)
+- Commit your changes (git commit -am 'Add some AmazingFeature')
+- Push to the branch (git push origin feature/AmazingFeature)
+- Open a pull request
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
