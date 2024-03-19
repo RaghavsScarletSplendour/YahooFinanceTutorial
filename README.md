@@ -15,10 +15,11 @@ pip install -r requirements.txt
 ```
 ## Features
 
-Installation instructions for yfinance
-Fetching stock data
-Adjusted prices and interval-based data retrieval
-Advanced features for comprehensive financial analysis
+- Installation instructions for yfinance
+- Fetching stock data
+- Adjusted prices and interval-based data retrieval
+- Advanced features for comprehensive financial analysis
+
 ## Usage
 
 Open the Yfinance_tutorial.ipynb Jupyter Notebook in your preferred environment (Jupyter Lab, Jupyter Notebook, or VS Code) to access the tutorial and code snippets.
