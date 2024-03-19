@@ -9,7 +9,7 @@ This project demonstrates how to use the `yfinance` package to fetch and analyze
 To get started with this project, clone this repository and install the required packages using the following commands:
 
 ```bash
-git clone [<repository-url>](https://github.com/RaghavsScarletSplendour/YahooFinanceTutorial.git)
+git clone https://github.com/RaghavsScarletSplendour/YahooFinanceTutorial.git
 cd YahooFinanceTutorial
 jupyter notebook
 ```
