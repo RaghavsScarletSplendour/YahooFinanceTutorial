@@ -1,5 +1,7 @@
 # YahooFinanceTutorial
 
+Link to Youtube Tutorial for Follow Along: https://youtu.be/x7FCTt-OTEA?si=wlzvt9SQoRKyjyAH
+
 ## Yahoo Finance Data Analysis with yfinance
 
 This project demonstrates how to use the `yfinance` package to fetch and analyze financial data from Yahoo Finance. The Jupyter Notebook covers a range of functionalities from basic data fetching to advanced analyses tailored for traders and investors.
